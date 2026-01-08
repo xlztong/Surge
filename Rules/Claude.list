@@ -1,0 +1,15 @@
+﻿# Claude Rules
+# Generated: 2026-01-08
+
+# Anthropic Official
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+
+# Claude API
+DOMAIN-SUFFIX,api.anthropic.com
+
+# Claude CDN & Assets
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
